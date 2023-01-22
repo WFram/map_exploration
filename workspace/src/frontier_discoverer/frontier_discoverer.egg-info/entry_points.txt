@@ -1,0 +1,3 @@
+[console_scripts]
+explore = frontier_discoverer.wavefront_frontier:main
+

@@ -1,0 +1,1 @@
+docker exec -it "map_exploration" /bin/bash
